@@ -1,0 +1,13 @@
+3RD PARTY LICENSES
+
+The main license applies to all code within the gmslib repository, except for
+3rd party files found in the src/ext subdirectory, which are subject to their
+individual licenses:
+
+* nanoply.hpp
+	Copyright (c) 2014-2015,	Visual Computing Lab, ISTI - Italian National Research Coucil
+	Mozilla Public License v.2.0. http://mozilla.org/MPL/2.0/
+
+* MemoryUsage.h
+	Copyright (c) 2006, Michael Kazhdan and Matthew Bolitho
+	BSD-3-Clause License. https://opensource.org/licenses/BSD-3-Clause
