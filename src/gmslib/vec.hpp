@@ -12,6 +12,7 @@
 #include "base.hpp"
 #include <sstream>
 #include <iostream>
+#include <cfloat>
 
 
 namespace gms
@@ -2173,7 +2174,7 @@ namespace gms
 
 #pragma region eigenvalue decomposition methods
 		// Eigenvalue decomposition adopted from:
-		// Dave Eberly, 2011. Eigensystems for 3×3 Symmetric Matrices (Revisited). Online, Geometric Tools, 2012
+		// Dave Eberly, 2011. Eigensystems for 3ï¿½3 Symmetric Matrices (Revisited). Online, Geometric Tools, 2012
 	private:
 		int computeRank(mat3& M, float epsilon = 0) const
 		{
