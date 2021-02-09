@@ -1,3 +1,8 @@
+# VSCode default build folder
+build/
+
+
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/c,c++,cmake,windows,linux,macos,vscode,visualstudio,visualstudiocode,qt,qtcreator
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,c++,cmake,windows,linux,macos,vscode,visualstudio,visualstudiocode,qt,qtcreator
